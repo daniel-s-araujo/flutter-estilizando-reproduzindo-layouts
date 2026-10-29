@@ -1,2 +1,2 @@
-# flutter-estilizando-reproduzindo-layouts
+# Flutter
 Exemplos do curso "Flutter: Estilizando e reproduzindo layouts"
